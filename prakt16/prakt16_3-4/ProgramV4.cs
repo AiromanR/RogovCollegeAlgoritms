@@ -2,7 +2,7 @@
 using System.IO;
 using System.Linq;
 using System.Collections.Generic;
-namespace prakt16_1_v3_Rogov
+namespace prakt16_1_v4_Rogov
 {
     class Program
     {
